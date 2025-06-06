@@ -4,8 +4,7 @@ const urlsToCache = [
   './index.html',
   './manifest.json',
   './sw.js', // Den Service Worker selbst cachen
-  '/icons/icon-192x192.png', // Pfade zu den Icons
-  '/icons/icon-512x512.png'
+  
   // Füge hier weitere statische Assets hinzu, die du cachen möchtest (z.B. externe CSS-Dateien, wenn du welche hast)
 ];
 
