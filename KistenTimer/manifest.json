@@ -6,9 +6,7 @@
   "display": "standalone",
   "background_color": "#f4f4f4",
   "theme_color": "#0056b3"
-  // Entferne den gesamten "icons"-Block
-  /*
-  "icons": [
+ 
     {
       "src": "/icons/icon-192x192.png",
       "sizes": "192x192",
